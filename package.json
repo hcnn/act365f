@@ -1,0 +1,12 @@
+{
+  "name": "act365f",
+  "version": "0.1.0",
+  "repo": "hcnn/act365f",
+  "description": "Date difference in years according to the Actual/365 Fixed daycount method",
+  "keywords": ["daycount", "date difference", "year fraction", "Actual/365 Fixed", "Act/365 Fixed", "A/365 Fixed", "A/365F", "English"],
+  "license": "MIT",
+  "src": ["act365f.c", "act365f.h"],
+  "dependencies": {
+    "hcnn/julianday": "0.1.0"
+  }
+}
